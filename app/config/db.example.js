@@ -1,0 +1,1 @@
+module.exports.dsn = 'mongodb://user:pwd@host:port/db';
