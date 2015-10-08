@@ -46,7 +46,7 @@ All responses are using the JSON format.
 
 List all the monuments
 
-    /api/monuments/id
+    /api/monuments/:id
 
 List the infos of the referenced monument
 
