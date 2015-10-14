@@ -4,7 +4,7 @@
 // 
 // ======================================================================================
 var mongoose   = require('mongoose');
-var db = require('./app/config/db.js')
+var db = require('./app/config/db.js');
 
 mongoose.connect(db.dsn);
 
